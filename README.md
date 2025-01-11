@@ -15,4 +15,4 @@ The datafiles used for the analyses are in a `/data/` directory, and the code ha
 No markdown blocks were used; we used a notebook solely for its output capabilities. Instead, the code was thoroughly commented, and the report PDF in the repository provides additional reasoning and justification for how the analysis was conducted.
 
 #### `shots_heatmap.gif`:
-<img src="https://github.sfu.ca/blb8/CMPT-353-Project/blob/main/shots_heatmap.gif" alt="Animated heatmap of shot origins over time">
+<img src="https://github.com/fforoughi/CMPT-353-Project-main/blob/main/shots_heatmap.gif" alt="Animated heatmap of shot origins over time">
